@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+env/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de configuración local
+settings_local.py
+
+# Directorio de medios subidos
+media/
+
+# Archivos de registro
+*.log
+
+# Directorios específicos del IDE
+.idea/
+.vscode/
